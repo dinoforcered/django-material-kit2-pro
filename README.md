@@ -19,9 +19,9 @@
 
 > Links
 
-- [Django Material Kit2 PRO](https://appseed.us/product/django-material-kit2-pro) - product page
-- [Django Material Kit2 PRO](https://django-material-kit2-pro.appseed-srv1.com/) - LIVE Demo
-- [Django Material Kit2 PRO](https://docs.appseed.us/products/django-apps/material-kit-2-pro) - documentation
+- 👉 [Django Material Kit2 PRO](https://appseed.us/product/django-material-kit2-pro) - product page
+- 👉 [Django Material Kit2 PRO](https://django-material-kit2-pro.appseed-srv1.com/) - LIVE Demo
+- 👉 [Django Material Kit2 PRO](https://docs.appseed.us/products/django-apps/material-kit-2-pro) - documentation
 
 <br />
 
