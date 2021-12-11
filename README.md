@@ -12,7 +12,7 @@
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
+- `Deployment`: **Docker**, Gunicorn / Nginx
 - Support via **Github** and [Discord](https://discord.gg/fZC6hup).
 
 <br />
